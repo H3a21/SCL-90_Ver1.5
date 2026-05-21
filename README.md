@@ -1,4 +1,4 @@
-SCL-90 Ver 1.51
+SCL-90 Ver 1.5
 
 > 一个基于 SCL-90（症状自评量表）的心理状态评估工具
 
@@ -42,7 +42,7 @@ SCL-90 Ver 1.51
 
 1. 克隆项目：
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/H3a21/SCL-90_Ver1.5>
 
 2. 打开项目文件夹
 3. 使用浏览器打开 index.html 即可运行
